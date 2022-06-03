@@ -80,7 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://www.hengtuo.ml/ysgc.json"
+      "ext": "http://dongmf123.github.io/ysgc.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -90,7 +90,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://www.hengtuo.ml/555.json"
+      "ext": "http://dongmf123.github.io/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -100,7 +100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://www.hengtuo.ml/lezhutv.json"
+      "ext": "http://dongmf123.github.io/lezhutv.json"
     },
     { //列子，自己找Api
       "key": "300看世界",
@@ -140,7 +140,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.hengtuo.ml/789ba.json"
+      "ext": "http://dongmf123.github.io/789ba.json"
     },
     {
       "key": "Gimy",
@@ -150,7 +150,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.hengtuo.ml/Gimy.json"
+      "ext": "http://dongmf123.github.io/Gimy.json"
     },
     {
       "key": "乐猪TV",
@@ -160,7 +160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://www.hengtuo.ml/lezhutv.json"
+      "ext": "http://dongmf123.github.io/lezhutv.json"
     },
     {
       "key": "Age动漫",
@@ -170,7 +170,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.hengtuo.ml/agefans.json"
+      "ext": "http://dongmf123.github.io/agefans.json"
     },
     {
       "key": "push_agent",
@@ -467,5 +467,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://www.hengtuo.ml/custom_spider.jar"
+  "spider": "http://dongmf123.github.io/custom_spider.jar"
 }
